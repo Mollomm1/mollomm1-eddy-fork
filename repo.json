@@ -1,0 +1,8 @@
+{
+    "name": "Mollomm1's Eddy Fix Repository",
+    "description": "fix for the French Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/Mollomm1/eddy-fix/master/plugins.json"
+    ]
+}
