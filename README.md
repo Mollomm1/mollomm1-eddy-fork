@@ -3,7 +3,7 @@
 # *Mollomm1's Eddy Fork*
 
 ## a modified version of the french repo
-<a href="cloudstreamrepo://raw.githubusercontent.com/Mollomm1/mollomm1-eddy-fork/master/repo.json"><img height="42px" src="installcs.png" /></a>
+<img height="42px" href="cloudstreamrepo://raw.githubusercontent.com/Mollomm1/mollomm1-eddy-fork/master/repo.json" src="installcs.png" />
 <p>
 
 ## Attribution
