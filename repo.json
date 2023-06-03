@@ -1,8 +1,8 @@
 {
-    "name": "Mollomm1's Eddy Fix Repository",
-    "description": "fix for the French Repository",
+    "name": "Mollomm1's Eddy Fork Repository",
+    "description": "a modified version for the French Repository",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/Mollomm1/eddy-fix/master/plugins.json"
+        "https://raw.githubusercontent.com/Mollomm1/mollomm1-eddy-fork/master/plugins.json"
     ]
 }
