@@ -13,10 +13,10 @@
             "Anime",
             "AnimeMovie"
         ],
-        "version": 4,
+        "version": 5,
         "internalName": "NekosamaProvider",
         "description": " Ce site fait son entr\u00e9e dans la cat\u00e9gorie des meilleurs sites animes Fran\u00e7ais. Il est tr\u00e8s fiable car quasiment tous ses liens vid\u00e9os marchent. Il propose des animes en \u00ab VF \u00bb version fran\u00e7aise et en \u00ab VOSTFR \u00bb version originale Sous-titr\u00e9e en Fran\u00e7ais.",
         "url": "https://raw.githubusercontent.com/Mollomm1/mollomm1-eddy-fork/master/NekosamaProvider.cs3",
-        "name": "NekosamaProvider"
+        "name": "AnimeCatProvider"
     }
 ]
